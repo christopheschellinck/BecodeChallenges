@@ -1,1 +1,0 @@
-this is a python Challenge called Card Game. The game_main01.py is to be saved under the utils python directory. The other is to be saved under the Python Project which was created for the project. The name for the project can be PlayCard.
